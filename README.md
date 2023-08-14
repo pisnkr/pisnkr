@@ -9,10 +9,10 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonghyeok1&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 <br />
-<h1> Hi, I'm JinMan-Kim
+<h1> Hi, I'm Kyuri-Park
 
 
-<h2 align="center">☾⋆⁺₊⋆💙 I'M THE MAN ,, WHAT I CAN DO..? 💙☾⋆⁺₊⋆</h2>
+<h2 align="center">☾⋆⁺₊⋆💙 I'M A STUDENT ,, WHAT I CAN DO..? 💙☾⋆⁺₊⋆</h2>
  
 <div align=center><h1>📚 STACKS</h1></div>
 
